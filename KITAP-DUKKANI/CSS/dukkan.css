@@ -1,0 +1,30 @@
+a {
+    color:cornflowerblue;  
+}
+h1 {
+    color:crimson ;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+h2 {
+    color:rebeccapurple ;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3 {
+    color:rgb(32, 235, 32);
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+ol {
+    text-align: center;
+    list-style-position: inside;
+}
+img {
+    height: 150px;;
+}
